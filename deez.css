@@ -1,0 +1,79 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 2em;
+    margin-bottom: 45px;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  .investment-types {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-bottom: 40px;
+  }
+  
+  .investment-card {
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 10px;
+    text-align: center;
+    width: 300px; /* Adjust width as needed */
+  }
+  
+  .investment-card h3 {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+  }
+  
+  .learn-more-btn {
+    background-color: #2779af;
+    color: rgb(206, 30, 30);
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+  }
+  
+  .benefits {
+    margin-bottom: 40px;
+  }
+  
+  .benefits ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .benefits li {
+    margin-bottom: 10px;
+  }
+  
+  .cta {
+    text-align: center;
+  }
+  
+  .cta-button {
+   style=background-color: #2980b9;
+    color: aquamarine(182, 29, 29);
+
+    <p font-style: ;="color: red;">PROFITpulse</p
+
+  
+  }
+
